@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.spec
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/

@@ -1,1 +1,0 @@
-([('chip8', '/Users/wangroland/Desktop/chip8/dist/chip8', 'EXECUTABLE')],)

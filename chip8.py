@@ -391,8 +391,6 @@ class Chip8:
             if event.key in KEYMAP:
                 self.key[KEYMAP[event.key]] = 0
 
-        
-
 # === Main ===
 root = tk.Tk()
 root.withdraw()
